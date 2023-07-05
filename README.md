@@ -7,5 +7,4 @@ In the instance of entering a city that does not exist, it responds by giving an
 The javascript is embedded in the html where Ihave used a <script> tag to enclose it.
 
 The link to the site is:
-
-Below are screenshots of the system's design:
+https://masywairimu.github.io/WEATHER-APP-PROJECT/
